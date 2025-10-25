@@ -1,0 +1,5 @@
+{
+  "name": "営業日報チェックAI",
+  "description": "日報をAIが分析し、改善点と良い点をフィードバックします。営業スキルの向上をサポートします。",
+  "requestFramePermissions": []
+}
